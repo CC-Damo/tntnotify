@@ -1,0 +1,10 @@
+name: TNTNotify
+version: 1.0
+main: uk.co.ddelay.bukkit.TNTNotify
+permissions:
+    tntnotify.allow-placement:
+        description: Allows TNT Placement
+        default: op
+    tntnotify.allow-drop:
+        description: Allows Drop for TNT
+        default: op
